@@ -1,0 +1,6 @@
+#Actuating force required
+#Insert Level length, a when Mn and Mf is known
+
+a=0.34
+Fa=(Mn-Mf)/a
+Fa
