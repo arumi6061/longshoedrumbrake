@@ -1,5 +1,5 @@
 #Normal moment exerted on long shoe drum brake
-
+#Change variable below to find Mn
 omega=0.07
 r=0.18
 c=0.249
