@@ -4,7 +4,7 @@ import math
 #Brake parameters
 a=0.34 #Lever length
 r=0.18 #Radius of drum brake
-c=0.2604
+c=0.2604 #Distance between pivot point of lever and drum center
 f=0.35 #Brake coefficient of friction
 w=0.07 #Width of Clucth lining
 rpm=450
